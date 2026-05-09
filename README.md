@@ -1,0 +1,2 @@
+# DDoS-Guard-Optimizing-Machine-Learning-Detection-via-Advanced-Data-Preprocessing
+This project evaluates how data preprocessing improves machine learning detection of DDoS attacks using the CIC-DDoS2019 dataset (50M+ records). A four-stage framework enhances accuracy and efficiency, comparing Random Forest, XGBoost, k-NN, Naïve Bayes, and SVM to achieve near-perfect detection in complex networks.
